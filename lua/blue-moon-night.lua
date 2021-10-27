@@ -1,6 +1,6 @@
 -- vim:fdm=marker
 
-local util = require'blue-moon.util'
+local util = require'blue-moon-night.util'
 
 local M = {}
 
@@ -26,7 +26,7 @@ local heavy_red      = '#e61f44'
 local green          = '#b4c4b4'
 local green_high     = '#bcd9c4'
 local blue           = '#959dcb'
-local blue_light     = '#b8bcf3'
+local blue_light     = '#959dce'
 local yellow         = '#cfcfbf'
 local orange         = '#b4b4b4'
 local purple         = '#b9a3eb'
